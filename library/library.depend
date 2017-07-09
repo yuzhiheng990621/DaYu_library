@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1499566798 source:c:\users\administrator\desktop\study\library\book.c
+	"BOOK.h"
+
+1499566736 c:\users\administrator\desktop\study\library\book.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1499566811 source:c:\users\administrator\desktop\study\library\main.c
+	"BOOK.h"
+
